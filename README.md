@@ -198,6 +198,7 @@ Secor is distributed under [Apache License, Version 2.0](http://www.apache.org/l
   * [Viacom](http://www.viacom.com)
   * [Simplaex](https://www.simplaex.com/)
   * [Zapier](https://www.zapier.com)
+  * [Wavy](https://wavy.global)
 
 ## Help
 
